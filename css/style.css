@@ -1,0 +1,148 @@
+body {
+   background: #fff;
+   color: 333;
+}
+ 
+@media all and (max-width: 480px) {
+   body {
+      background: #e7e7e7;
+   }
+}
+
+.container-fluid{
+	border-top: solid 20px #FFFFF;
+}
+header{
+	margin-top: 5px;
+	border-top: solid 8px #e5bd1d;
+	padding: 17px ;
+}
+.navbar-default{
+	border-left: none;
+	border-right: none;
+	background: none;
+	line-height: none;
+}
+.navbar-default .navbar-nav{
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 12px;
+
+}
+.navbar-default .navbar-nav>li>a {
+    color: #777;
+    padding-right: 103px;
+}
+.container-fluid .container img{
+
+}
+.container-fluid .container h2 {
+	color: #353430;
+	margin-top: 10px;
+	float: right;
+    margin-right: 18px;
+
+
+margin-left: 70px;
+}
+.container-fluid .container h3{
+	font-size: 15px;
+    color: #FFBF00;
+     margin-left: 10px;
+}
+.container-fluid .row img{
+   margin-left: 34px;
+}
+.container-fluid .row p{
+	margin-left: 11px;
+    font-size: 12px;
+    padding-right: 33px;
+
+}
+#content{
+	 margin-top: 8px;
+}
+#main{
+	border-right: #A4A4A4  solid 0.1px;
+}
+#main-1{
+}
+#main img{
+	float: left;
+}
+#main ul {
+	margin: 0px;
+	padding: 0px;
+}
+#main ul li{
+	border-bottom: dotted;
+    list-style: none;
+    clear: left;
+    margin-left: 1px;
+}
+#main img{
+	width: 60px;
+	height: 50px;
+	margin-left: 1px;
+}
+#main h5 {
+       font-size: 14px;
+       margin-left: 5px;
+       font-weight: bold;
+}
+#main-1 h5{
+	    margin-left: 33px;
+	    font-weight: bold;
+	    font-size: 14px;
+
+}
+#main-2 img{
+    width: 39px;
+    height: 34px;
+    float: left;
+    margin-bottom: 17px;
+    margin-left: 2px;
+    margin-right: 5px;
+}
+#main-2 ul {
+	margin: 0px;
+	padding: 0px;
+}
+#main-2 ul li{
+	border-bottom: dotted; 
+    list-style: none;
+    clear: left
+}
+#main-2 p{
+	font-weight: bold;
+    font-size: 13px;
+    margin-bottom: 23px;
+}
+#main-2 h5{
+	font-size: 14px;
+	font-weight: bold;
+}
+#main-2{
+	border-left: #A4A4A4 solid 0.1px;
+}
+.container .row  img{
+	width: 100px;
+    height: 103px;
+
+}
+#content1{
+	margin-top: 41px;
+    border-top: solid 1px #7c7a70;
+    border-bottom: solid 1px #7c7a70;
+    margin-left: 8px;
+
+}
+#content1 img{
+   margin-top: 11px;
+   margin-bottom: 11px;
+}
+footer {
+ background: #f1f1f1;padding: 16px;
+ text-align: center;
+ clear: left;
+}
